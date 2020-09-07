@@ -54,7 +54,7 @@ Usage:
          </div>         
          
         <div class="hat_title">
-         <h3> {{next_year}}</h3>
+         <h2> {{next_year}}</h2>
         </div>
         <div class="post_list">
         <ul>
