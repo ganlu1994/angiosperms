@@ -65,9 +65,9 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 属文章, description: archive, url: '/archive'}
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: APG IV, description: apg4, url: '/apg4'}
+    - {title: APG系统, description: apw, url: '/apw'}
+    - {title: 文章, description: archive, url: '/archive'}
+    - {title: 标签, description: tags, url: '/tags'}
     - {title: 关于我, description: about, url: '/about'}   
     
 
