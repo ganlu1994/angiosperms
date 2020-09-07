@@ -67,7 +67,7 @@ blog_button:
 nav:
     - {title: APG系统, description: apw, url: '/apw'}
 #    - {title: 文章, description: genus, url: '/genus'}
-    - {title: 标签, description: tags, url: '/tags'}
+    - {title: 分类阶元, description: category, url: '/category'}
     - {title: 说明, description: ref, url: '/ref'}
     
 
