@@ -68,7 +68,7 @@ nav:
     - {title: APG系统, description: apw, url: '/apw'}
     - {title: 文章, description: archive, url: '/archive'}
 #    - {title: 标签, description: tags, url: '/tags'}
-    - {title: 关于我, description: about, url: '/about'}   
+#    - {title: 关于我, description: about, url: '/about'}
     
 
 # Pagination
