@@ -1096,7 +1096,7 @@ input[type="tel"]:-ms-input-placeholder {
 
   .panel-main__inner {
     display: table-cell;
-    padding: 60px 10%; 
+    padding: 0;
   }
 
   .panel-cover__description {
