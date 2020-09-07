@@ -1,1 +1,592 @@
----layout: pagetitle: APG系统框架---# ANA演化阶 (ANA grand)## 无油樟目Amborellales[无油樟科Amborellaceae]()## 睡莲目Nymphaeales[莼菜科Cabombaceae]()[独蕊草科Hydatellaceae]()[睡莲科Nymphaeaceae]()## 木兰藤目Austrobaileyales[木兰藤科Austrobaileyaceae]()[五味子科Schisandraceae]()[苞被木科Trimeniaceae]()---# 金粟兰目 (Chloranthales)## 金粟兰目Chloranthales[金粟兰科Chloranthaceae]()---# 木兰分支 (magnoliids)## 白樟目Canellales[白樟科Canellaceae]()[林仙科Winteraceae]()## 胡椒目Piperales[马兜铃科Aristolochiaceae]()[胡椒科Piperaceae]()[三白草科Saururaceae]()## 樟目Laurales[蜡梅科Calycanthaceae]()[坛罐花科Siparunaceae]()[奎乐果科Gomortegaceae]()[香皮檫科Atherospermataceae]()[樟科Lauraceae]()[莲叶桐科Hernandiaceae]()[玉盘桂科Monimiaceae]()## 木兰目Magnoliales[肉豆蔻科Myristicaceae]()[木兰科Magnoliaceae]()[单心木兰科Degeneriaceae]()[瓣蕊花科Himantandraceae]()[帽花木科Eupomatiaceae]()[番荔枝科Annonaceae]()---# 单子叶植物 (monocots)## 菖蒲目Acorales[菖蒲科Acoraceae]()## 泽泻目Alismatales[岩菖蒲科Tofieldiaceae]()[天南星科Araceae]()[泽泻科Alismataceae]()[花蔺科Butomaceae]()[水鳖科Hydrocharitaceae]()[冰沼草科Scheuchzeriaceae]()[水蕹科Aponogetonaceae]()[水麦冬科Juncaginaceae]()[花香蒲科Maundiaceae]()[海神草科Posidoniaceae]()[川蔓藻科Ruppiaceae]()[丝粉藻科Cymodoceaceae]()[大叶藻科Zosteraceae]()[眼子菜科Potamogetonaceae]()## 无叶莲目Petrosaviales[无叶莲科Petrosaviaceae]()## 薯蓣目Dioscoreales[沼金花科Nartheciaceae]()[蒟蒻薯科Taccaceae]()[水玉杯科Thismiaceae]()[水玉簪科Burmanniaceae]()[薯蓣科Dioscoreaceae]()## 露兜树目Pandanales[翡若翠科Velloziaceae]()[百部科Stemonaceae]()[霉草科Triuridaceae]()[露兜树科Pandanaceae]()[环花草科Cyclanthaceae]()## 百合目Liliales[白玉簪科Corsiaceae]()[翠菱花科Campynemataceae]()[花须藤科Petermanniaceae]()[秋水仙科Colchicaceae]()[六出花科Alstroemeriaceae]()[藜芦科Melanthiaceae]()[百合科Liliaceae]()[菝葜科Smilacaceae]()[金钟木科Philesiaceae]()[鱼篓藤科Ripogonaceae]()## 天门冬目Asparagales[兰科Orchidaceae]()[耐旱草科Boryaceae]()[火铃花科Blandfordiaceae]()[聚星草科Asteliaceae]()[雪绒兰科Lanariaceae]()[仙茅科Hypoxidaceae]()[鸢尾蒜科Ixioliriaceae]()[蓝嵩莲科Tecophilaeaceae]()[矛花科Doryanthaceae]()[鸢尾科Iridaceae]()[鸢尾麻科Xeronemataceae]()[阿福花科Asphodelaceae]()[石蒜科Amaryllidaceae]()[天门冬科Asparagaceae]()# 鸭跖草分支 (commelinids)## 棕榈目Arecales[鼓槌草科Dasypogonaceae]()[棕榈科Arecaceae]()## 禾本目Poales[香蒲科Typhaceae]()[凤梨科Bromeliaceae]()[泽蔺花科Rapateaceae]()[谷精草科Eriocaulaceae]()[黄眼草科Xyridaceae]()[花水藓科Mayacaceae]()[梭子草科Thurniaceae]()[灯芯草科Juncaceae]()[莎草科Cyperaceae]()[帚灯草科Restionaceae]()[须叶藤科Flagellariaceae]()[拟苇科Joinvilleaceae]()[沟秆草科Ecdeiocoleaceae]()[禾本科Poaceae]()## 鸭跖草目Commelinales[田葱科Philydraceae]()[钵子草科Hanguanaceae]()[鸭跖草科Commelinaceae]()[血草科Haemodoraceae]()[雨久花科Pontederiaceae]()## 姜目Zingiberales[芭蕉科Musaceae]()[蝎尾蕉科Heliconiaceae]()[鹤望兰科Strelitziaceae]()[兰花蕉科Lowiaceae]()[美人蕉科Cannaceae]()[竹芋科Marantaceae]()[闭鞘姜科Costaceae]()[姜科Zingiberaceae]()---# 金鱼藻目 (Ceratophyllales)## 金鱼藻目Ceratophyllales[金鱼藻科Ceratophyllaceae]()---# 真双子叶植物 (eudicots)## 毛茛目Ranunculales[领春木科Eupteleaceae]()[罂粟科Papaveraceae]()[星叶草科Circaeasteraceae]()[木通科Lardizabalaceae]()[防己科Menispermaceae]()[小檗科Berberidaceae]()## 山龙眼目Proteales[毛茛科Ranunculaceae]()[清风藤科Sabiaceae]()[莲科Nelumbonaceae]()[悬铃木科Platanaceae]()[山龙眼科Proteaceae]()## 昆栏树目Trochodendrales[昆栏树科Trochodendraceae]()## 黄杨目Buxales[黄杨科Buxaceae]()## 大叶草目Gunnerales[大叶草科Gunneraceae]()[折扇叶科Myrothamnaceae]()## 五桠果目Dilleniales[五桠果科Dilleniaceae]()## 虎耳草目Saxifragales[围盘树科Peridiscaceae]()[芍药科Paeoniaceae]()[蕈树科Altingiaceae]()[金缕梅科Hamamelidaceae]()[连香树科Cercidiphyllaceae]()[虎皮楠科Daphniphyllaceae]()[景天科Crassulaceae]()[隐瓣藤科Aphanopetalaceae]()[四心木科Tetracarpaeaceae]()[扯根菜科Penthoraceae]()[小二仙草科Haloragaceae]()[茶藨子科Grossulariaceae]()[虎耳草科Saxifragaceae]()[锁阳科Cynomoriaceae]()[鼠刺科Iteaceae]()## 葡萄目Vitales[葡萄科Vitaceae]()## 蒺藜目Zygophyllales[刺球果科Krameriaceae]()[蒺藜科Zygophyllaceae]()## 卫矛目Celastrales[鳞球穗科Lepidobotryaceae]()[卫矛科Celastraceae]()## 酢浆草目Oxalidales[蒜树科Huaceae]()[牛栓藤科Connaraceae]()[酢浆草科Oxalidaceae]()[合椿梅科Cunoniaceae]()[杜英科Elaeocarpaceae]()[槽柱花科Brunelliaceae]()[土瓶草科Cephalotaceae]()## 金虎尾目Malpighiales[香膏木科Humiriaceae]()[青钟麻科Achariaceae]()[尾瓣桂科Goupiaceae]()[堇菜科Violaceae]()[西番莲科Passifloraceae]()[荷包柳科Lacistemataceae]()[杨柳科Salicaceae]()[蚌壳木科Peraceae]()[大花草科Rafflesiaceae]()[大戟科Euphorbiaceae]()[叶下珠科Phyllanthaceae]()[苦皮桐科Picrodendraceae]()[黏木科Ixonanthaceae]()[亚麻科Linaceae]()[泥沱树科Ctenolophonaceae]()[古柯科Erythroxylaceae]()[红树科Rhizophoraceae]()[假杧果科Irvingiaceae]()[小盘木科Pandaceae]()[金莲木科Ochnaceae]()[泽茶科Bonnetiaceae]()[藤黄科Clusiaceae]()[红厚壳科Calophyllaceae]()[金丝桃科Hypericaceae]()[川苔草科Podostemaceae]()[五翼果科Lophopyxidaceae]()[核果木科Putranjivaceae]()[油桃木科Caryocaraceae]()[安神木科Centroplacaceae]()[沟繁缕科Elatinaceae]()[金虎尾科Malpighiaceae]()[橡子木科Balanopaceae]()[三角果科Trigoniaceae]()[毒鼠子科Dichapetalaceae]()[银鹃木科Euphroniaceae]()[可可李科Chrysobalanaceae]()## 豆目Fabales[皂皮树科Quillajaceae]()[豆科Fabaceae]()[海人树科Surianaceae]()[远志科Polygalaceae]()## 蔷薇目Rosales[蔷薇科Rosaceae]()[鼠李科Rhamnaceae]()[胡颓子科Elaeagnaceae]()[钩毛树科Barbeyaceae]()[八瓣果科Dirachmaceae]()[榆科Ulmaceae]()[大麻科Cannabaceae]()[桑科Moraceae]()[荨麻科Urticaceae]()## 葫芦目Cucurbitales[异叶木科Anisophylleaceae]()[毛利果科Corynocarpaceae]()[马桑科Coriariaceae]()[葫芦科Cucurbitaceae]()[四数木科Tetramelaceae]()[野麻科Datiscaceae]()[风生花科Apodanthaceae]()[秋海棠科Begoniaceae]()## 壳斗目Fagales[南青冈科Nothofagaceae]()[壳斗科Fagaceae]()[杨梅科Myricaceae]()[胡桃科Juglandaceae]()[木麻黄科Casuarinaceae]()[核果桦科Ticodendraceae]()[桦木科Betulaceae]()## 牻牛儿苗目Geraniales[牻牛儿苗科Geraniaceae]()[新妇花科Francoaceae]()## 桃金娘目Myrtales## 缨子木目Crossosomatales## 苦榄木目Picramniales## 无患子目Sapindales## 腺椒树目Huerteales## 锦葵目Malvales## 十字花目Brassicales## 红珊藤目Berberidopsidales## 檀香目Santalales## 石竹目Caryophyllales## 山茱萸目Cornales## 杜鹃花目Ericales## 茶茱萸目Icacinales## 水螅花目Metteniusales## 丝缨花目Garryales## 茄目Solanales## 黄漆姑目Vahliales## 龙胆目Gentianales## 唇形目Lamiales## 紫草目Boraginales## 冬青目Aquifoliales## 菊目Asterales## 南鼠刺目Escalloniales## 绒球花目Bruniales## 伞形目Apiales## 盔被花目Paracryphiales[盔被花科Paracryphiaceae]()## 川续断目Dipsacales[五福花科Adoxaceae]()[忍冬科Caprifoliaceae]()
+---
+layout: page
+title: APG系统框架
+---
+
+# ANA演化阶 (ANA grand)
+
+## 无油樟目Amborellales
+
+[无油樟科Amborellaceae]()
+
+## 睡莲目Nymphaeales
+
+[莼菜科Cabombaceae]()
+
+[独蕊草科Hydatellaceae]()
+
+[睡莲科Nymphaeaceae]()
+
+## 木兰藤目Austrobaileyales
+
+[木兰藤科Austrobaileyaceae]()
+
+[五味子科Schisandraceae]()
+
+[苞被木科Trimeniaceae]()
+
+---
+
+# 金粟兰目 (Chloranthales)
+
+## 金粟兰目Chloranthales
+
+[金粟兰科Chloranthaceae]()
+
+---
+
+# 木兰分支 (magnoliids)
+
+## 白樟目Canellales
+
+[白樟科Canellaceae]()
+
+[林仙科Winteraceae]()
+
+## 胡椒目Piperales
+
+[马兜铃科Aristolochiaceae]()
+
+[胡椒科Piperaceae]()
+
+[三白草科Saururaceae]()
+
+## 樟目Laurales
+
+[蜡梅科Calycanthaceae]()
+
+[坛罐花科Siparunaceae]()
+
+[奎乐果科Gomortegaceae]()
+
+[香皮檫科Atherospermataceae]()
+
+[樟科Lauraceae]()
+
+[莲叶桐科Hernandiaceae]()
+
+[玉盘桂科Monimiaceae]()
+
+## 木兰目Magnoliales
+
+[肉豆蔻科Myristicaceae]()
+
+[木兰科Magnoliaceae]()
+
+[单心木兰科Degeneriaceae]()
+
+[瓣蕊花科Himantandraceae]()
+
+[帽花木科Eupomatiaceae]()
+
+[番荔枝科Annonaceae]()
+
+---
+
+# 单子叶植物 (monocots)
+
+## 菖蒲目Acorales
+
+[菖蒲科Acoraceae]()
+
+## 泽泻目Alismatales
+
+[岩菖蒲科Tofieldiaceae]()
+
+[天南星科Araceae]()
+
+[泽泻科Alismataceae]()
+
+[花蔺科Butomaceae]()
+
+[水鳖科Hydrocharitaceae]()
+
+[冰沼草科Scheuchzeriaceae]()
+
+[水蕹科Aponogetonaceae]()
+
+[水麦冬科Juncaginaceae]()
+
+[花香蒲科Maundiaceae]()
+
+[海神草科Posidoniaceae]()
+
+[川蔓藻科Ruppiaceae]()
+
+[丝粉藻科Cymodoceaceae]()
+
+[大叶藻科Zosteraceae]()
+
+[眼子菜科Potamogetonaceae]()
+
+## 无叶莲目Petrosaviales
+
+[无叶莲科Petrosaviaceae]()
+
+## 薯蓣目Dioscoreales
+
+[沼金花科Nartheciaceae]()
+
+[蒟蒻薯科Taccaceae]()
+
+[水玉杯科Thismiaceae]()
+
+[水玉簪科Burmanniaceae]()
+
+[薯蓣科Dioscoreaceae]()
+
+## 露兜树目Pandanales
+
+[翡若翠科Velloziaceae]()
+
+[百部科Stemonaceae]()
+
+[霉草科Triuridaceae]()
+
+[露兜树科Pandanaceae]()
+
+[环花草科Cyclanthaceae]()
+
+## 百合目Liliales
+
+[白玉簪科Corsiaceae]()
+
+[翠菱花科Campynemataceae]()
+
+[花须藤科Petermanniaceae]()
+
+[秋水仙科Colchicaceae]()
+
+[六出花科Alstroemeriaceae]()
+
+[藜芦科Melanthiaceae]()
+
+[百合科Liliaceae]()
+
+[菝葜科Smilacaceae]()
+
+[金钟木科Philesiaceae]()
+
+[鱼篓藤科Ripogonaceae]()
+
+## 天门冬目Asparagales
+
+[兰科Orchidaceae]()
+
+[耐旱草科Boryaceae]()
+
+[火铃花科Blandfordiaceae]()
+
+[聚星草科Asteliaceae]()
+
+[雪绒兰科Lanariaceae]()
+
+[仙茅科Hypoxidaceae]()
+
+[鸢尾蒜科Ixioliriaceae]()
+
+[蓝嵩莲科Tecophilaeaceae]()
+
+[矛花科Doryanthaceae]()
+
+[鸢尾科Iridaceae]()
+
+[鸢尾麻科Xeronemataceae]()
+
+[阿福花科Asphodelaceae]()
+
+[石蒜科Amaryllidaceae]()
+
+[天门冬科Asparagaceae]()
+
+# 鸭跖草分支 (commelinids)
+
+## 棕榈目Arecales
+
+[鼓槌草科Dasypogonaceae]()
+
+[棕榈科Arecaceae]()
+
+## 禾本目Poales
+
+[香蒲科Typhaceae]()
+
+[凤梨科Bromeliaceae]()
+
+[泽蔺花科Rapateaceae]()
+
+[谷精草科Eriocaulaceae]()
+
+[黄眼草科Xyridaceae]()
+
+[花水藓科Mayacaceae]()
+
+[梭子草科Thurniaceae]()
+
+[灯芯草科Juncaceae]()
+
+[莎草科Cyperaceae]()
+
+[帚灯草科Restionaceae]()
+
+[须叶藤科Flagellariaceae]()
+
+[拟苇科Joinvilleaceae]()
+
+[沟秆草科Ecdeiocoleaceae]()
+
+[禾本科Poaceae]()
+
+## 鸭跖草目Commelinales
+
+[田葱科Philydraceae]()
+
+[钵子草科Hanguanaceae]()
+
+[鸭跖草科Commelinaceae]()
+
+[血草科Haemodoraceae]()
+
+[雨久花科Pontederiaceae]()
+
+## 姜目Zingiberales
+
+[芭蕉科Musaceae]()
+
+[蝎尾蕉科Heliconiaceae]()
+
+[鹤望兰科Strelitziaceae]()
+
+[兰花蕉科Lowiaceae]()
+
+[美人蕉科Cannaceae]()
+
+[竹芋科Marantaceae]()
+
+[闭鞘姜科Costaceae]()
+
+[姜科Zingiberaceae]()
+
+---
+
+# 金鱼藻目 (Ceratophyllales)
+
+## 金鱼藻目Ceratophyllales
+
+[金鱼藻科Ceratophyllaceae]()
+
+---
+
+# 真双子叶植物 (eudicots)
+
+## 毛茛目Ranunculales
+
+[领春木科Eupteleaceae]()
+
+[罂粟科Papaveraceae]()
+
+[星叶草科Circaeasteraceae]()
+
+[木通科Lardizabalaceae]()
+
+[防己科Menispermaceae]()
+
+[小檗科Berberidaceae]()
+
+## 山龙眼目Proteales
+
+[毛茛科Ranunculaceae]()
+
+[清风藤科Sabiaceae]()
+
+[莲科Nelumbonaceae]()
+
+[悬铃木科Platanaceae]()
+
+[山龙眼科Proteaceae]()
+
+## 昆栏树目Trochodendrales
+
+[昆栏树科Trochodendraceae]()
+
+## 黄杨目Buxales
+
+[黄杨科Buxaceae]()
+
+## 大叶草目Gunnerales
+
+[大叶草科Gunneraceae]()
+
+[折扇叶科Myrothamnaceae]()
+
+## 五桠果目Dilleniales
+
+[五桠果科Dilleniaceae]()
+
+## 虎耳草目Saxifragales
+
+[围盘树科Peridiscaceae]()
+
+[芍药科Paeoniaceae]()
+
+[蕈树科Altingiaceae]()
+
+[金缕梅科Hamamelidaceae]()
+
+[连香树科Cercidiphyllaceae]()
+
+[虎皮楠科Daphniphyllaceae]()
+
+[景天科Crassulaceae]()
+
+[隐瓣藤科Aphanopetalaceae]()
+
+[四心木科Tetracarpaeaceae]()
+
+[扯根菜科Penthoraceae]()
+
+[小二仙草科Haloragaceae]()
+
+[茶藨子科Grossulariaceae]()
+
+[虎耳草科Saxifragaceae]()
+
+[锁阳科Cynomoriaceae]()
+
+[鼠刺科Iteaceae]()
+
+## 葡萄目Vitales
+
+[葡萄科Vitaceae]()
+
+## 蒺藜目Zygophyllales
+
+[刺球果科Krameriaceae]()
+
+[蒺藜科Zygophyllaceae]()
+
+## 卫矛目Celastrales
+
+[鳞球穗科Lepidobotryaceae]()
+
+[卫矛科Celastraceae]()
+
+## 酢浆草目Oxalidales
+
+[蒜树科Huaceae]()
+
+[牛栓藤科Connaraceae]()
+
+[酢浆草科Oxalidaceae]()
+
+[合椿梅科Cunoniaceae]()
+
+[杜英科Elaeocarpaceae]()
+
+[槽柱花科Brunelliaceae]()
+
+[土瓶草科Cephalotaceae]()
+
+## 金虎尾目Malpighiales
+
+[香膏木科Humiriaceae]()
+
+[青钟麻科Achariaceae]()
+
+[尾瓣桂科Goupiaceae]()
+
+[堇菜科Violaceae]()
+
+[西番莲科Passifloraceae]()
+
+[荷包柳科Lacistemataceae]()
+
+[杨柳科Salicaceae]()
+
+[蚌壳木科Peraceae]()
+
+[大花草科Rafflesiaceae]()
+
+[大戟科Euphorbiaceae]()
+
+[叶下珠科Phyllanthaceae]()
+
+[苦皮桐科Picrodendraceae]()
+
+[黏木科Ixonanthaceae]()
+
+[亚麻科Linaceae]()
+
+[泥沱树科Ctenolophonaceae]()
+
+[古柯科Erythroxylaceae]()
+
+[红树科Rhizophoraceae]()
+
+[假杧果科Irvingiaceae]()
+
+[小盘木科Pandaceae]()
+
+[金莲木科Ochnaceae]()
+
+[泽茶科Bonnetiaceae]()
+
+[藤黄科Clusiaceae]()
+
+[红厚壳科Calophyllaceae]()
+
+[金丝桃科Hypericaceae]()
+
+[川苔草科Podostemaceae]()
+
+[五翼果科Lophopyxidaceae]()
+
+[核果木科Putranjivaceae]()
+
+[油桃木科Caryocaraceae]()
+
+[安神木科Centroplacaceae]()
+
+[沟繁缕科Elatinaceae]()
+
+[金虎尾科Malpighiaceae]()
+
+[橡子木科Balanopaceae]()
+
+[三角果科Trigoniaceae]()
+
+[毒鼠子科Dichapetalaceae]()
+
+[银鹃木科Euphroniaceae]()
+
+[可可李科Chrysobalanaceae]()
+
+## 豆目Fabales
+
+[皂皮树科Quillajaceae]()
+
+[豆科Fabaceae]()
+
+[海人树科Surianaceae]()
+
+[远志科Polygalaceae]()
+
+## 蔷薇目Rosales
+
+[蔷薇科Rosaceae]()
+
+[鼠李科Rhamnaceae]()
+
+[胡颓子科Elaeagnaceae]()
+
+[钩毛树科Barbeyaceae]()
+
+[八瓣果科Dirachmaceae]()
+
+[榆科Ulmaceae]()
+
+[大麻科Cannabaceae]()
+
+[桑科Moraceae]()
+
+[荨麻科Urticaceae]()
+
+## 葫芦目Cucurbitales
+
+[异叶木科Anisophylleaceae]()
+
+[毛利果科Corynocarpaceae]()
+
+[马桑科Coriariaceae]()
+
+[葫芦科Cucurbitaceae]()
+
+[四数木科Tetramelaceae]()
+
+[野麻科Datiscaceae]()
+
+[风生花科Apodanthaceae]()
+
+[秋海棠科Begoniaceae]()
+
+## 壳斗目Fagales
+
+[南青冈科Nothofagaceae]()
+
+[壳斗科Fagaceae]()
+
+[杨梅科Myricaceae]()
+
+[胡桃科Juglandaceae]()
+
+[木麻黄科Casuarinaceae]()
+
+[核果桦科Ticodendraceae]()
+
+[桦木科Betulaceae]()
+
+## 牻牛儿苗目Geraniales
+
+[牻牛儿苗科Geraniaceae]()
+
+[新妇花科Francoaceae]()
+
+## 桃金娘目Myrtales
+
+## 缨子木目Crossosomatales
+
+## 苦榄木目Picramniales
+
+## 无患子目Sapindales
+
+## 腺椒树目Huerteales
+
+## 锦葵目Malvales
+
+## 十字花目Brassicales
+
+## 红珊藤目Berberidopsidales
+
+## 檀香目Santalales
+
+## 石竹目Caryophyllales
+
+## 山茱萸目Cornales
+
+## 杜鹃花目Ericales
+
+## 茶茱萸目Icacinales
+
+## 水螅花目Metteniusales
+
+## 丝缨花目Garryales
+
+## 茄目Solanales
+
+## 黄漆姑目Vahliales
+
+## 龙胆目Gentianales
+
+## 唇形目Lamiales
+
+## 紫草目Boraginales
+
+## 冬青目Aquifoliales
+
+## 菊目Asterales
+
+## 南鼠刺目Escalloniales
+
+## 绒球花目Bruniales
+
+## 伞形目Apiales
+
+## 盔被花目Paracryphiales
+
+[盔被花科Paracryphiaceae]()
+
+## 川续断目Dipsacales
+
+[五福花科Adoxaceae]()
+
+[忍冬科Caprifoliaceae]()
