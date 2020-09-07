@@ -66,8 +66,8 @@ blog_button:
 # Navigation buttons in the front page.s
 nav:
     - {title: APG系统, description: apw, url: '/apw'}
-    - {title: 文章, description: genus, url: '/genus'}
-#    - {title: 标签, description: tags, url: '/tags'}
+#    - {title: 文章, description: genus, url: '/genus'}
+    - {title: 标签, description: tags, url: '/tags'}
     - {title: 说明, description: ref, url: '/ref'}
     
 
