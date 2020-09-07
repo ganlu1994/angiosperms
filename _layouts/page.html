@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<head>
-  <link rel="stylesheet" href="{{ "/css/page.css" | prepend: site.baseurl }}">
-</head>
-
 <article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <div class="post-meta">
@@ -14,6 +10,11 @@ layout: default
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
+
+  {% if site.enableToc %}
+    <h2 class="post-title">目录</h2>
+    {% include toc.html html=content %}
+  {% endif %}
 
   <section class="post">
     {{ content }}

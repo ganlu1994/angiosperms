@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 连香树属 *Cercidiphyllum*
+title: 连香树属 Cercidiphyllum
 date: 2020-09-07
 tags: genus
 ---
