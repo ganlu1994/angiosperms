@@ -1,23 +1,79 @@
----
-title: GANethe
-timezone: Asia/Shanghai
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+# Basic
+title: 鹿子的被子植物学习笔记
+subtitle: GANethe's Angiosperm Study Notes
+description: 原本山川 极命草木
+# 头像里面的标题
+avatarTitle: 鹿子
+# 头像里面的描述
+avatarDesc: GANethe
+url: "https://ganlu1994.github.io"
+
+# 博客是否自动生成目录，false为不生成
+enableToc: true
+
+# Comment
+comment:
+    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
+    # disqus: leopard
+    # uyan: 2143225  # 有言id,登录有言官网申请
+
+# Social
+social:
+    weibo: 18811125220
+    github: ganlu1994
+    zhihu: 18811125220
+    # juejin:
+    # jianshu:
+    # twitter: 
+    # mail:
+
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    # id: 8ba1c6be0953b6f9c2ba38e57f615421
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-84134159-3  
+    host: auto  
+
+
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: APG系统, description: apw, url: '/apw'}
+    - {title: 分类阶元, description: tags, url: '/tags'}
+    - {title: 积累, description: genus, url: '/genus'}
+    - {title: 说明, description: ref, url: '/ref'}
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+
