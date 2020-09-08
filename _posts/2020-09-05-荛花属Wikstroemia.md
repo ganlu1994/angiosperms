@@ -6,13 +6,13 @@ tags: genus
 
 [锦葵目Malvales-10科339属6138种](https://ganlu1994.github.io/2000/01/43锦葵目Malvales/)
 
-[瑞香科Thymelaeaceae-46属913种](https://ganlu1994.github.io/2000/9/247瑞香科Thymelaeaceae/)
+[瑞香科Thymelaeaceae-46属913种](https://ganlu1994.github.io/2000/09/247瑞香科Thymelaeaceae/)
 
-5. 瑞香亚科　Subfam. Thymelaeoideae
+5瑞香亚科Subfam. Thymelaeoideae
 
-6. 欧瑞香族　Tr. Thymelaeeae
+6欧瑞香族Tr. Thymelaeeae
 
-2. 荛花亚族　Subtr. Wikstroemiinae
+2荛花亚族Subtr. Wikstroemiinae
 
 ---
 

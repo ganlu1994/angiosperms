@@ -10,11 +10,11 @@ tags: genus
 
 [唇形目Lamiales-26科1082属24645种](https://ganlu1994.github.io/2000/01/56唇形目Lamiales/)
 
-[紫葳科Bignoniaceae-82属870种](https://ganlu1994.github.io/2000/4/386紫葳科Bignoniaceae/)
+[紫葳科Bignoniaceae-82属870种](https://ganlu1994.github.io/2000/04/386紫葳科Bignoniaceae/)
 
-3. 角蒿亚科　Subfam. Incarvilleoideae
+3角蒿亚科Subfam. Incarvilleoideae
 
-5. 黄钟花族　Tr. Tecomeae
+5黄钟花族Tr. Tecomeae
 
 ---
 
