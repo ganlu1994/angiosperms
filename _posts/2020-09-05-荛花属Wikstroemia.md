@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 荛花属*Wikstroemia*
+title: 荛花属Wikstroemia
 tags: genus    
 ---
 
