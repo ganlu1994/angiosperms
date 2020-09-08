@@ -4,10 +4,11 @@ title: 薯蓣属Dioscorea
 tags: genus    
 ---
 
-[薯蓣科](https://ganlu1994.github.io/2001/03/47薯蓣科Dioscoreaceae/)
+[薯蓣目Dioscoreales-5科28属916种](https://ganlu1994.github.io/2000/02/12薯蓣目Dioscoreales/)
 
-[薯蓣目](https://ganlu1994.github.io/2000/02/12薯蓣目Dioscoreales/)
+[薯蓣科Dioscoreaceae-9属715种](https://ganlu1994.github.io/2001/03/47薯蓣科Dioscoreaceae/)
 
+4. 薯蓣亚科　Subfam. Dioscoreoideae
 ---
 
 * 藤本，无卷须

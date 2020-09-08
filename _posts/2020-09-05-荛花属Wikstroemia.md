@@ -4,15 +4,15 @@ title: 荛花属Wikstroemia
 tags: genus    
 ---
 
-2荛花亚族Subtr. Wikstroemiinae
+[锦葵目Malvales-10科339属6138种](https://ganlu1994.github.io/2000/01/43锦葵目Malvales/)
 
-6欧瑞香族Tr. Thymelaeeae
+[瑞香科Thymelaeaceae-46属913种](https://ganlu1994.github.io/2000/9/247瑞香科Thymelaeaceae/)
 
-5瑞香亚科Subfam. Thymelaeoideae
+5. 瑞香亚科　Subfam. Thymelaeoideae
 
-[瑞香科](https://ganlu1994.github.io/2000/9/247瑞香科Thymelaeaceae/)
+6. 欧瑞香族　Tr. Thymelaeeae
 
-[锦葵目](https://ganlu1994.github.io/2000/01/43锦葵目Malvales/)
+2. 荛花亚族　Subtr. Wikstroemiinae
 
 ---
 
